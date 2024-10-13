@@ -85,4 +85,71 @@
         </footer>
     </main>  
 </body>
-</html>
+</html> 
+
+
+.curriculo {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.geral {
+    background-color: silver;
+}
+
+.seção-Um {
+    background-color: gray;
+    display: flow-root;
+}
+
+.nome {
+    text-align:center;
+}
+
+.imagem {
+    float: left;
+    max-width: 400px;
+    margin-right: 9rem;
+    margin-left: 4rem;
+}
+
+.dados-pessoais {
+    text-align: justify;
+    padding: 2px;
+    margin-left: 590px;
+}
+
+.objetivos{
+    margin-top: 70px;
+    text-align: left;
+    margin-left: 1rem;
+}
+
+.qualificaçao-profissional {
+    margin-left: 1rem;
+}
+
+.formaçao {
+    margin-left: 1rem;
+}
+
+.experiências-profissinais {
+    margin-left: 1rem;
+}
+
+.qualificações-profissionais {
+    margin-left: 1rem;
+}
+
+.idiomas {
+    margin-left: 1rem;
+}
+
+.final {
+    text-align: center;
+    background-color: darkcyan;
+    font-size: 14px; 
+    color: aliceblue;
+}
